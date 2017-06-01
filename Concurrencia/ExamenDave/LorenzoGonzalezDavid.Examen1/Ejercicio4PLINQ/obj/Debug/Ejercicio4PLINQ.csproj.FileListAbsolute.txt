@@ -1,8 +1,0 @@
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\bin\Debug\Ejercicio4PLINQ.exe.config
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\bin\Debug\Ejercicio4PLINQ.exe
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\bin\Debug\Ejercicio4PLINQ.pdb
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\obj\Debug\Ejercicio4PLINQ.exe
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\obj\Debug\Ejercicio4PLINQ.pdb
-C:\Users\mistermboy\Desktop\Examen2\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\bin\Debug\Ejercicio4PLINQ.exe.config
-C:\Users\mistermboy\Desktop\Examen2\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\obj\Debug\Ejercicio4PLINQ.exe
-C:\Users\mistermboy\Desktop\Examen2\LorenzoGonzalezDavid.Examen1\Ejercicio4PLINQ\obj\Debug\Ejercicio4PLINQ.pdb

@@ -1,5 +1,0 @@
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\LorenzoGonzalezDavid.Examen1\bin\Debug\LorenzoGonzalezDavid.Examen1.dll
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\LorenzoGonzalezDavid.Examen1\bin\Debug\LorenzoGonzalezDavid.Examen1.pdb
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\LorenzoGonzalezDavid.Examen1\obj\Debug\LorenzoGonzalezDavid.Examen1.csprojResolveAssemblyReference.cache
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\LorenzoGonzalezDavid.Examen1\obj\Debug\LorenzoGonzalezDavid.Examen1.dll
-c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\LorenzoGonzalezDavid.Examen1\obj\Debug\LorenzoGonzalezDavid.Examen1.pdb
