@@ -1,0 +1,44 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\bin\Debug\context.switching.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\bin\Debug\context.switching.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\bin\Debug\modulo.vector.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\bin\Debug\modulo.vector.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\obj\x86\Debug\context.switching.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejercicios\practica01\context.switching\obj\x86\Debug\context.switching.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\bin\Debug\context.switching.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\bin\Debug\context.switching.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\bin\Debug\modulo.vector.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\bin\Debug\modulo.vector.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\obj\x86\Debug\context.switching.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica01\ejemplos\context.switching\obj\x86\Debug\context.switching.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\obj\x86\Debug\context.switching.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\obj\x86\Debug\context.switching.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\bin\Debug\context.switching.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\bin\Debug\context.switching.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\bin\Debug\modulo.vector.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\bin\Debug\modulo.vector.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica1\ejemplos\context.switching\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\obj\x86\Debug\context.switching.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\obj\x86\Debug\context.switching.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\bin\Debug\context.switching.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\bin\Debug\context.switching.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\bin\Debug\modulo.vector.exe
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\bin\Debug\modulo.vector.pdb
+C:\Users\Administrador\Dropbox\DOCENCIA\TPP\practicas.profesores\concurrente\practica1\ejemplos\context.switching\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\obj\x86\Debug\context.switching.exe
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\obj\x86\Debug\context.switching.pdb
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\bin\Debug\context.switching.exe
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\bin\Debug\context.switching.pdb
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\bin\Debug\modulo.vector.exe
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\bin\Debug\modulo.vector.pdb
+Z:\delacal en mi Mac\Dropbox\DOCENCIA\TPP\1314\_practicas\sesion9\alumno\ejemplos\context.switching\obj\x86\Debug\context.switching.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\ejemplos\context.switching\obj\x86\Debug\context.switching.exe
+C:\Users\uo252406\Desktop\ejemplos\context.switching\obj\x86\Debug\context.switching.pdb
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\obj\x86\Debug\context.switching.exe
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\obj\x86\Debug\context.switching.pdb
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\bin\Debug\context.switching.exe
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\bin\Debug\context.switching.pdb
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\bin\Debug\modulo.vector.exe
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\bin\Debug\modulo.vector.pdb
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\context.switching\obj\x86\Debug\context.switching.csprojResolveAssemblyReference.cache

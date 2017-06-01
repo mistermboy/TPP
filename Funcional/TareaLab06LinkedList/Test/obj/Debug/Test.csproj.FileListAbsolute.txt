@@ -1,0 +1,9 @@
+F:\TPP\Practicas\Sesión2LinkedList\Test\bin\Debug\Test.dll
+F:\TPP\Practicas\Sesión2LinkedList\Test\bin\Debug\Test.pdb
+F:\TPP\Practicas\Sesión2LinkedList\Test\bin\Debug\Clases.dll
+F:\TPP\Practicas\Sesión2LinkedList\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\TPP\Practicas\Sesión2LinkedList\Test\bin\Debug\Clases.pdb
+F:\TPP\Practicas\Sesión2LinkedList\Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\TPP\Practicas\Sesión2LinkedList\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\Sesión2LinkedList\Test\obj\Debug\Test.dll
+F:\TPP\Practicas\Sesión2LinkedList\Test\obj\Debug\Test.pdb

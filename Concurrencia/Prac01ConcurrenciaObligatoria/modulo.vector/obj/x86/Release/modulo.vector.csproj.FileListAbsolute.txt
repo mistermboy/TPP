@@ -1,0 +1,6 @@
+C:\Users\uo252406\Desktop\ejemplos\modulo.vector\obj\x86\Release\modulo.vector.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\modulo.vector\obj\x86\Release\modulo.vector.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\modulo.vector\bin\Release\modulo.vector.exe
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\modulo.vector\bin\Release\modulo.vector.pdb
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\modulo.vector\obj\x86\Release\modulo.vector.exe
+F:\TPP\Practicas\Concurrencia\Prac01Concurrencia\modulo.vector\obj\x86\Release\modulo.vector.pdb

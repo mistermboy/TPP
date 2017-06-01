@@ -1,0 +1,9 @@
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\Lab06Test.csprojResolveAssemblyReference.cache
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\ClassLibrary1.pdb

@@ -1,0 +1,11 @@
+C:\Users\uo252406\Desktop\PBe\Lab04\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\PBe\Lab04\Clases\bin\Debug\Clases.dll
+C:\Users\uo252406\Desktop\PBe\Lab04\Clases\bin\Debug\Clases.pdb
+C:\Users\uo252406\Desktop\PBe\Lab04\Clases\obj\Debug\Clases.dll
+C:\Users\uo252406\Desktop\PBe\Lab04\Clases\obj\Debug\Clases.pdb
+F:\TPP\Practicas\Lab04\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\Lab04\Clases\obj\Debug\Clases.dll
+F:\TPP\Practicas\Lab04\Clases\obj\Debug\Clases.pdb
+H:\TPP\Practicas\Lab04\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+H:\TPP\Practicas\Lab04\Clases\obj\Debug\Clases.dll
+H:\TPP\Practicas\Lab04\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,9 @@
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab07\ConsoleLab07\bin\Debug\ConsoleLab07.exe.config
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab07\ConsoleLab07\obj\Debug\ConsoleLab07.csprojResolveAssemblyReference.cache
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab07\ConsoleLab07\bin\Debug\ConsoleLab07.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab07\ConsoleLab07\bin\Debug\ConsoleLab07.pdb
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab07\ConsoleLab07\obj\Debug\ConsoleLab07.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab07\ConsoleLab07\obj\Debug\ConsoleLab07.pdb
+H:\TPP\Practicas\Lab07\ConsoleLab07\bin\Debug\ConsoleLab07.exe.config
+H:\TPP\Practicas\Lab07\ConsoleLab07\obj\Debug\ConsoleLab07.exe
+H:\TPP\Practicas\Lab07\ConsoleLab07\obj\Debug\ConsoleLab07.pdb

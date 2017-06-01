@@ -1,0 +1,18 @@
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\bin\Debug\Test.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\bin\Debug\Test.pdb
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\bin\Debug\Clases.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\bin\Debug\Clases.pdb
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\obj\Debug\Test.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Test\obj\Debug\Test.pdb
+H:\TPP\Practicas\TareaLab05\Test\bin\Debug\Test.dll
+H:\TPP\Practicas\TareaLab05\Test\bin\Debug\Test.pdb
+H:\TPP\Practicas\TareaLab05\Test\bin\Debug\Clases.dll
+H:\TPP\Practicas\TareaLab05\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\TPP\Practicas\TareaLab05\Test\bin\Debug\Clases.pdb
+H:\TPP\Practicas\TareaLab05\Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\TPP\Practicas\TareaLab05\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+H:\TPP\Practicas\TareaLab05\Test\obj\Debug\Test.dll
+H:\TPP\Practicas\TareaLab05\Test\obj\Debug\Test.pdb

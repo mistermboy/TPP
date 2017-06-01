@@ -1,0 +1,5 @@
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\IntegerExtension\obj\Debug\IntegerExtension.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\IntegerExtension\bin\Debug\IntegerExtension.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\IntegerExtension\bin\Debug\IntegerExtension.pdb
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\IntegerExtension\obj\Debug\IntegerExtension.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\IntegerExtension\obj\Debug\IntegerExtension.pdb

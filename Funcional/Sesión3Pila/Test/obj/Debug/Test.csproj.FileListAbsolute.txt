@@ -1,0 +1,7 @@
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\bin\Debug\Test.dll
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\bin\Debug\Test.pdb
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\bin\Debug\Clases.dll
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\bin\Debug\Clases.pdb
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\obj\Debug\Test.dll
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Test\obj\Debug\Test.pdb

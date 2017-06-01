@@ -1,0 +1,15 @@
+C:\Users\uo252406\Desktop\PBe\ConsoleLab03\ConsoleLab03\bin\Debug\ConsoleLab03.exe.config
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\bin\Debug\ConsoleLab03.exe.config
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\bin\Debug\ConsoleLab03.exe
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\bin\Debug\ConsoleLab03.pdb
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\bin\Debug\ClasesLab03.dll
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\bin\Debug\ClasesLab03.pdb
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\obj\Debug\ConsoleLab03.csprojResolveAssemblyReference.cache
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\obj\Debug\ConsoleLab03.exe
+C:\Users\mistermboy\Desktop\ConsoleLab03\ConsoleLab03\obj\Debug\ConsoleLab03.pdb
+C:\Users\mistermboy\Desktop\Sesion3TareaClase\ConsoleLab03\bin\Debug\ConsoleLab03.exe.config
+C:\Users\mistermboy\Desktop\Sesion3TareaClase\ConsoleLab03\obj\Debug\ConsoleLab03.exe
+C:\Users\mistermboy\Desktop\Sesion3TareaClase\ConsoleLab03\obj\Debug\ConsoleLab03.pdb
+H:\TPP\Practicas\Sesion3TareaClase\ConsoleLab03\bin\Debug\ConsoleLab03.exe.config
+H:\TPP\Practicas\Sesion3TareaClase\ConsoleLab03\obj\Debug\ConsoleLab03.exe
+H:\TPP\Practicas\Sesion3TareaClase\ConsoleLab03\obj\Debug\ConsoleLab03.pdb

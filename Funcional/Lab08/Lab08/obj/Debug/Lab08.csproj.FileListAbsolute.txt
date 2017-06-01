@@ -1,0 +1,12 @@
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab08\Lab08\bin\Debug\Lab08.exe.config
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab08\Lab08\bin\Debug\Lab08.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab08\Lab08\bin\Debug\Lab08.pdb
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab08\Lab08\obj\Debug\Lab08.csprojResolveAssemblyReference.cache
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab08\Lab08\obj\Debug\Lab08.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\Lab08\Lab08\obj\Debug\Lab08.pdb
+F:\TPP\Practicas\Lab08\Lab08\bin\Debug\Lab08.exe.config
+F:\TPP\Practicas\Lab08\Lab08\obj\Debug\Lab08.exe
+F:\TPP\Practicas\Lab08\Lab08\obj\Debug\Lab08.pdb
+H:\TPP\Practicas\Lab08\Lab08\bin\Debug\Lab08.exe.config
+H:\TPP\Practicas\Lab08\Lab08\obj\Debug\Lab08.exe
+H:\TPP\Practicas\Lab08\Lab08\obj\Debug\Lab08.pdb

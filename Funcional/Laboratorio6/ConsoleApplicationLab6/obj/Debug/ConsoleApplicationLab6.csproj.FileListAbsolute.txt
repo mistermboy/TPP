@@ -1,0 +1,14 @@
+C:\Users\uo252406\Desktop\PBe\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.exe.config
+C:\Users\uo252406\Desktop\PBe\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.exe
+C:\Users\uo252406\Desktop\PBe\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.pdb
+C:\Users\uo252406\Desktop\PBe\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\PBe\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.exe
+C:\Users\uo252406\Desktop\PBe\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.pdb
+F:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.exe.config
+F:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.exe
+F:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.pdb
+H:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.exe.config
+H:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.exe
+H:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\obj\Debug\ConsoleApplicationLab6.pdb
+H:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.exe
+H:\TPP\Practicas\Laboratorio6\ConsoleApplicationLab6\bin\Debug\ConsoleApplicationLab6.pdb

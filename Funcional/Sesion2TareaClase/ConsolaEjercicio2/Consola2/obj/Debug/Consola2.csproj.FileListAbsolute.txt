@@ -1,0 +1,8 @@
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\bin\Debug\Consola2.exe.config
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\bin\Debug\Consola2.exe
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\bin\Debug\Consola2.pdb
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\bin\Debug\IntegerExtension.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\bin\Debug\IntegerExtension.pdb
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\obj\Debug\Consola2.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\obj\Debug\Consola2.exe
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Consola2\obj\Debug\Consola2.pdb

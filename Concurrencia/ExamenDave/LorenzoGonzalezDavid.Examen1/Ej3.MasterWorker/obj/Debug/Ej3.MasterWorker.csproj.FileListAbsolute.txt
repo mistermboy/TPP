@@ -1,0 +1,4 @@
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ej3.MasterWorker\bin\Debug\Ej3.MasterWorker.dll
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ej3.MasterWorker\bin\Debug\Ej3.MasterWorker.pdb
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ej3.MasterWorker\obj\Debug\Ej3.MasterWorker.dll
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\Ej3.MasterWorker\obj\Debug\Ej3.MasterWorker.pdb

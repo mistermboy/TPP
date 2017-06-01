@@ -1,0 +1,24 @@
+c:\users\uo251063\documents\visual studio 2015\Projects\lab05\lab05\bin\Debug\lab05.exe.config
+c:\users\uo251063\documents\visual studio 2015\Projects\lab05\lab05\bin\Debug\lab05.exe
+c:\users\uo251063\documents\visual studio 2015\Projects\lab05\lab05\bin\Debug\lab05.pdb
+c:\users\uo251063\documents\visual studio 2015\Projects\lab05\lab05\obj\Debug\lab05.csprojResolveAssemblyReference.cache
+c:\users\uo251063\documents\visual studio 2015\Projects\lab05\lab05\obj\Debug\lab05.exe
+c:\users\uo251063\documents\visual studio 2015\Projects\lab05\lab05\obj\Debug\lab05.pdb
+H:\Segundo\tpp\lab05\lab05\bin\Debug\lab05.exe.config
+H:\Segundo\tpp\lab05\lab05\obj\Debug\lab05.exe
+H:\Segundo\tpp\lab05\lab05\obj\Debug\lab05.pdb
+H:\Segundo\tpp\lab05\lab05\obj\Debug\lab05.csprojResolveAssemblyReference.cache
+H:\Segundo\tpp\lab05\lab05\bin\Debug\lab05.exe
+H:\Segundo\tpp\lab05\lab05\bin\Debug\lab05.pdb
+C:\Users\mistermboy\Desktop\lab05\lab05\lab05\bin\Debug\lab05.exe.config
+C:\Users\mistermboy\Desktop\lab05\lab05\lab05\obj\Debug\lab05.exe
+C:\Users\mistermboy\Desktop\lab05\lab05\lab05\obj\Debug\lab05.pdb
+C:\Users\mistermboy\Desktop\lab05\lab05\lab05\bin\Debug\lab05.exe
+C:\Users\mistermboy\Desktop\lab05\lab05\lab05\bin\Debug\lab05.pdb
+C:\Users\mistermboy\Desktop\lab05\lab05\lab05\obj\Debug\lab05.csprojResolveAssemblyReference.cache
+H:\TPP\Practicas\ClaseLab05\lab05\lab05\bin\Debug\lab05.exe.config
+H:\TPP\Practicas\ClaseLab05\lab05\lab05\obj\Debug\lab05.exe
+H:\TPP\Practicas\ClaseLab05\lab05\lab05\obj\Debug\lab05.pdb
+H:\TPP\Practicas\ClaseLab05\lab05\lab05\bin\Debug\lab05.exe
+H:\TPP\Practicas\ClaseLab05\lab05\lab05\bin\Debug\lab05.pdb
+H:\TPP\Practicas\ClaseLab05\lab05\lab05\obj\Debug\lab05.csprojResolveAssemblyReference.cache

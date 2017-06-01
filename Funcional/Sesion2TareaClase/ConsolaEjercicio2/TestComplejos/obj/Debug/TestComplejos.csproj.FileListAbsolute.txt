@@ -1,0 +1,7 @@
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\bin\Debug\TestComplejos.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\bin\Debug\TestComplejos.pdb
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\obj\Debug\TestComplejos.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\obj\Debug\TestComplejos.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\TestComplejos\obj\Debug\TestComplejos.pdb

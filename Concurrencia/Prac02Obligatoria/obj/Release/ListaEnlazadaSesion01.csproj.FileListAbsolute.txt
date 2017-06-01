@@ -1,0 +1,5 @@
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\ListaEnlazadaSesion01\bin\Release\ListaEnlazadaSesion01.dll
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\ListaEnlazadaSesion01\bin\Release\ListaEnlazadaSesion01.pdb
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\ListaEnlazadaSesion01\obj\Release\ListaEnlazadaSesion01.dll
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\ListaEnlazadaSesion01\obj\Release\ListaEnlazadaSesion01.pdb
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\ListaEnlazadaSesion01\obj\Release\ListaEnlazadaSesion01.csprojResolveAssemblyReference.cache

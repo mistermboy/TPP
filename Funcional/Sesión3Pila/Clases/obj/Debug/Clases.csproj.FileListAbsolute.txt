@@ -1,0 +1,15 @@
+D:\Archivos de programa\Visual Studio\Consola\Clases\bin\Debug\Clases.dll
+D:\Archivos de programa\Visual Studio\Consola\Clases\bin\Debug\Clases.pdb
+D:\Archivos de programa\Visual Studio\Consola\Clases\obj\Debug\Clases.dll
+D:\Archivos de programa\Visual Studio\Consola\Clases\obj\Debug\Clases.pdb
+D:\Archivos de programa\Visual Studio\Consola\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+F:\TPP\t2\Clases\bin\Debug\Clases.dll
+F:\TPP\t2\Clases\bin\Debug\Clases.pdb
+F:\TPP\t2\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+F:\TPP\t2\Clases\obj\Debug\Clases.dll
+F:\TPP\t2\Clases\obj\Debug\Clases.pdb
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Clases\bin\Debug\Clases.dll
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Clases\bin\Debug\Clases.pdb
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Clases\obj\Debug\Clases.dll
+C:\Users\mistermboy\Desktop\Sesión2LinkedList\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,18 @@
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\EjerciciosExamen.exe.config
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\EjerciciosExamen.exe
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\EjerciciosExamen.pdb
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\LorenzoGonzalezDavid.Examen1.dll
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\LorenzoGonzalezDavid.Examen1.pdb
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.csprojResolveAssemblyReference.cache
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.exe
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.pdb
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\Ejercicio4PLINQ.exe
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\Ejercicio4PLINQ.pdb
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\Ej3.MasterWorker.dll
+c:\users\uo244795\documents\visual studio 2015\Projects\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\Ej3.MasterWorker.pdb
+G:\Ingeniería Informática\02 Segundo\Segundo Semestre\Tecnología y Paradigmas de la Programación\02 Práctica\Examen2\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\EjerciciosExamen.exe.config
+G:\Ingeniería Informática\02 Segundo\Segundo Semestre\Tecnología y Paradigmas de la Programación\02 Práctica\Examen2\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.exe
+G:\Ingeniería Informática\02 Segundo\Segundo Semestre\Tecnología y Paradigmas de la Programación\02 Práctica\Examen2\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.pdb
+C:\Users\mistermboy\Desktop\Examen2\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\bin\Debug\EjerciciosExamen.exe.config
+C:\Users\mistermboy\Desktop\Examen2\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.exe
+C:\Users\mistermboy\Desktop\Examen2\LorenzoGonzalezDavid.Examen1\EjerciciosExamen\obj\Debug\EjerciciosExamen.pdb

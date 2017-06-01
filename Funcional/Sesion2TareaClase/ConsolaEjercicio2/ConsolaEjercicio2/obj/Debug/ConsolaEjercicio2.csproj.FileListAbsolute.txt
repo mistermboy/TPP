@@ -1,0 +1,6 @@
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\ConsolaEjercicio2\bin\Debug\ConsolaEjercicio2.exe.config
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\ConsolaEjercicio2\bin\Debug\ConsolaEjercicio2.exe
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\ConsolaEjercicio2\bin\Debug\ConsolaEjercicio2.pdb
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\ConsolaEjercicio2\obj\Debug\ConsolaEjercicio2.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\ConsolaEjercicio2\obj\Debug\ConsolaEjercicio2.exe
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\ConsolaEjercicio2\obj\Debug\ConsolaEjercicio2.pdb

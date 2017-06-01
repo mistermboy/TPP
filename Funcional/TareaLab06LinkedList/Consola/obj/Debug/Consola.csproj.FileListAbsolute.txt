@@ -1,0 +1,24 @@
+D:\Archivos de programa\Visual Studio\Consola\Consola\bin\Debug\Consola.exe.config
+D:\Archivos de programa\Visual Studio\Consola\Consola\bin\Debug\Consola.exe
+D:\Archivos de programa\Visual Studio\Consola\Consola\bin\Debug\Consola.pdb
+D:\Archivos de programa\Visual Studio\Consola\Consola\bin\Debug\Clases.dll
+D:\Archivos de programa\Visual Studio\Consola\Consola\bin\Debug\Clases.pdb
+D:\Archivos de programa\Visual Studio\Consola\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\Archivos de programa\Visual Studio\Consola\Consola\obj\Debug\Consola.exe
+D:\Archivos de programa\Visual Studio\Consola\Consola\obj\Debug\Consola.pdb
+F:\TPP\t2\Consola\bin\Debug\Consola.exe.config
+F:\TPP\t2\Consola\obj\Debug\Consola.exe
+F:\TPP\t2\Consola\obj\Debug\Consola.pdb
+F:\TPP\t2\Consola\bin\Debug\Consola.exe
+F:\TPP\t2\Consola\bin\Debug\Consola.pdb
+F:\TPP\t2\Consola\bin\Debug\Clases.dll
+F:\TPP\t2\Consola\bin\Debug\Clases.pdb
+F:\TPP\t2\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\Sesión2LinkedList\Consola\bin\Debug\Consola.exe.config
+F:\TPP\Practicas\Sesión2LinkedList\Consola\obj\Debug\Consola.exe
+F:\TPP\Practicas\Sesión2LinkedList\Consola\obj\Debug\Consola.pdb
+F:\TPP\Practicas\Sesión2LinkedList\Consola\bin\Debug\Consola.exe
+F:\TPP\Practicas\Sesión2LinkedList\Consola\bin\Debug\Consola.pdb
+F:\TPP\Practicas\Sesión2LinkedList\Consola\bin\Debug\Clases.dll
+F:\TPP\Practicas\Sesión2LinkedList\Consola\bin\Debug\Clases.pdb
+F:\TPP\Practicas\Sesión2LinkedList\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

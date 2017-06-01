@@ -1,0 +1,8 @@
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Geometria\bin\Debug\Geometria.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Geometria\bin\Debug\Geometria.pdb
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Geometria\obj\Debug\Geometria.dll
+C:\Users\uo252406\Desktop\Lab02\ConsolaEjercicio2\Geometria\obj\Debug\Geometria.pdb
+H:\TPP\Practicas\Sesion2TareaClase\ConsolaEjercicio2\Geometria\bin\Debug\Geometria.dll
+H:\TPP\Practicas\Sesion2TareaClase\ConsolaEjercicio2\Geometria\bin\Debug\Geometria.pdb
+H:\TPP\Practicas\Sesion2TareaClase\ConsolaEjercicio2\Geometria\obj\Debug\Geometria.dll
+H:\TPP\Practicas\Sesion2TareaClase\ConsolaEjercicio2\Geometria\obj\Debug\Geometria.pdb

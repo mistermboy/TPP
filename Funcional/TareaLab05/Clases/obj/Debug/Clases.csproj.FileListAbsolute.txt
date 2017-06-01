@@ -1,0 +1,15 @@
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Clases\bin\Debug\Clases.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Clases\bin\Debug\Clases.pdb
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Clases\obj\Debug\Clases.dll
+c:\users\mistermboy\documents\visual studio 2015\Projects\TareaLab05\Clases\obj\Debug\Clases.pdb
+H:\TPP\Practicas\TareaLab05\Clases\bin\Debug\Clases.dll
+H:\TPP\Practicas\TareaLab05\Clases\bin\Debug\Clases.pdb
+H:\TPP\Practicas\TareaLab05\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+H:\TPP\Practicas\TareaLab05\Clases\obj\Debug\Clases.dll
+H:\TPP\Practicas\TareaLab05\Clases\obj\Debug\Clases.pdb
+F:\TPP\Practicas\TareaLab05\Clases\bin\Debug\Clases.dll
+F:\TPP\Practicas\TareaLab05\Clases\bin\Debug\Clases.pdb
+F:\TPP\Practicas\TareaLab05\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\TareaLab05\Clases\obj\Debug\Clases.dll
+F:\TPP\Practicas\TareaLab05\Clases\obj\Debug\Clases.pdb

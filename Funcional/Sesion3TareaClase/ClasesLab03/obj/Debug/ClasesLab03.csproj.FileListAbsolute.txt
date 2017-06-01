@@ -1,0 +1,5 @@
+C:\Users\mistermboy\Desktop\ConsoleLab03\ClasesLab03\obj\Debug\ClasesLab03.csprojResolveAssemblyReference.cache
+C:\Users\mistermboy\Desktop\ConsoleLab03\ClasesLab03\bin\Debug\ClasesLab03.dll
+C:\Users\mistermboy\Desktop\ConsoleLab03\ClasesLab03\bin\Debug\ClasesLab03.pdb
+C:\Users\mistermboy\Desktop\ConsoleLab03\ClasesLab03\obj\Debug\ClasesLab03.dll
+C:\Users\mistermboy\Desktop\ConsoleLab03\ClasesLab03\obj\Debug\ClasesLab03.pdb

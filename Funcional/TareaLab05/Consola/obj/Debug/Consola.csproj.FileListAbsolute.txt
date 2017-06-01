@@ -1,0 +1,11 @@
+F:\TPP\Practicas\TareaLab05\Consola\bin\Debug\Consola.exe.config
+F:\TPP\Practicas\TareaLab05\Consola\bin\Debug\Consola.exe
+F:\TPP\Practicas\TareaLab05\Consola\bin\Debug\Consola.pdb
+F:\TPP\Practicas\TareaLab05\Consola\obj\Debug\Consola.exe
+F:\TPP\Practicas\TareaLab05\Consola\obj\Debug\Consola.pdb
+F:\TPP\Practicas\TareaLab05\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+F:\TPP\Practicas\TareaLab05\Consola\bin\Debug\Clases.dll
+F:\TPP\Practicas\TareaLab05\Consola\bin\Debug\Clases.pdb
+H:\TPP\Practicas\TareaLab05\Consola\bin\Debug\Consola.exe.config
+H:\TPP\Practicas\TareaLab05\Consola\obj\Debug\Consola.exe
+H:\TPP\Practicas\TareaLab05\Consola\obj\Debug\Consola.pdb

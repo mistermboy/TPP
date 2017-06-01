@@ -1,0 +1,6 @@
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationLab3Concurrency\ConsoleApplicationLab3Concurrency\bin\Debug\ConsoleApplicationLab3Concurrency.exe.config
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationLab3Concurrency\ConsoleApplicationLab3Concurrency\obj\Debug\ConsoleApplicationLab3Concurrency.csprojResolveAssemblyReference.cache
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationLab3Concurrency\ConsoleApplicationLab3Concurrency\bin\Debug\ConsoleApplicationLab3Concurrency.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationLab3Concurrency\ConsoleApplicationLab3Concurrency\bin\Debug\ConsoleApplicationLab3Concurrency.pdb
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationLab3Concurrency\ConsoleApplicationLab3Concurrency\obj\Debug\ConsoleApplicationLab3Concurrency.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationLab3Concurrency\ConsoleApplicationLab3Concurrency\obj\Debug\ConsoleApplicationLab3Concurrency.pdb
