@@ -1,0 +1,9 @@
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsolaExamen\ConsolaExamen\bin\Debug\ConsolaExamen.exe.config
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsolaExamen\ConsolaExamen\bin\Debug\ConsolaExamen.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsolaExamen\ConsolaExamen\bin\Debug\ConsolaExamen.pdb
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsolaExamen\ConsolaExamen\obj\Debug\ConsolaExamen.csprojResolveAssemblyReference.cache
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsolaExamen\ConsolaExamen\obj\Debug\ConsolaExamen.exe
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsolaExamen\ConsolaExamen\obj\Debug\ConsolaExamen.pdb
+C:\Users\mistermboy\Documents\GitHub\TPP\Concurrencia\ConsolaExamen\ConsolaExamen\bin\Debug\ConsolaExamen.exe.config
+C:\Users\mistermboy\Documents\GitHub\TPP\Concurrencia\ConsolaExamen\ConsolaExamen\obj\Debug\ConsolaExamen.exe
+C:\Users\mistermboy\Documents\GitHub\TPP\Concurrencia\ConsolaExamen\ConsolaExamen\obj\Debug\ConsolaExamen.pdb

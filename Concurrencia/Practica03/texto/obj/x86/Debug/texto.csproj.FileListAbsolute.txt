@@ -1,0 +1,10 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica3\ejemplos\practica3\texto\bin\Debug\texto.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica3\ejemplos\practica3\texto\bin\Debug\texto.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica3\ejemplos\practica3\texto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica3\ejemplos\practica3\texto\obj\x86\Debug\texto.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\prácticas\concurrente\practica3\ejemplos\practica3\texto\obj\x86\Debug\texto.pdb
+C:\Users\mistermboy\Desktop\tarea11\ejemplos\texto\obj\x86\Debug\texto.exe
+C:\Users\mistermboy\Desktop\tarea11\ejemplos\texto\obj\x86\Debug\texto.pdb
+C:\Users\mistermboy\Desktop\tarea11\ejemplos\texto\bin\Debug\texto.exe
+C:\Users\mistermboy\Desktop\tarea11\ejemplos\texto\bin\Debug\texto.pdb
+C:\Users\mistermboy\Desktop\tarea11\ejemplos\texto\obj\x86\Debug\texto.csprojResolveAssemblyReference.cache
