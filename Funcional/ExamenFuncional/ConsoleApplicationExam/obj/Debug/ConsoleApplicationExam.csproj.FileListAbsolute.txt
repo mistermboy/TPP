@@ -1,0 +1,10 @@
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\ConsoleApplicationExam.exe.config
+c:\users\uo252406\documents\visual studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\obj\Debug\ConsoleApplicationExam.csprojResolveAssemblyReference.cache
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\ConsoleApplicationExam.exe
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\ConsoleApplicationExam.pdb
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\Clases.dll
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\Clases.pdb
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\obj\Debug\ConsoleApplicationExam.exe
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\obj\Debug\ConsoleApplicationExam.pdb
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\Lista.dll
+C:\Users\uo252406\Documents\Visual Studio 2015\Projects\ConsoleApplicationExam\ConsoleApplicationExam\bin\Debug\Lista.pdb

@@ -1,0 +1,5 @@
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\Lista\obj\Debug\Lista.csprojResolveAssemblyReference.cache
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\Lista\bin\Debug\Lista.dll
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\Lista\bin\Debug\Lista.pdb
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\Lista\obj\Debug\Lista.dll
+C:\Users\personal\Desktop\UNI\4º AÑO\TPP\Lista\obj\Debug\Lista.pdb
